@@ -1,4 +1,5 @@
 # Operating-System-homework
+모든 프로그램은 C++으로 작성되었다.
 ## Assignment 1
 Linux 배포판 설치 및 Kernel 컴파일
 ## Assignment 2
